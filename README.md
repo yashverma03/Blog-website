@@ -6,10 +6,9 @@
 
 ## Description
 
-- Developed a full stack blog web application for users to share ideas and view posts from other users.
-- Implemented authentication, authorization, category filter, image upload and blog comments.
-- Optimised database query time by 20% with NoSQL database, ensuring rapid data access and retrieval.
-- Tech: ReactJS, Material UI, ExpressJS, NodeJS, MongoDB, Mongoose.
+- Developed a full stack blog web application for users to share ideas and view posts from other users
+- Implemented creation and updating of blogs, commenting on others posts, image upload, category filter, authentication and authorization
+- Tech: ReactJS, ExpressJS, NodeJS, MongoDB.
 
 ## Screenshots
 
